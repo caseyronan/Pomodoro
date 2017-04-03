@@ -1,0 +1,15 @@
+c:\users\ronan\documents\visual studio 2017\Projects\WpfPomodoro\WpfPomodoro\bin\Debug\WpfPomodoro.exe.config
+c:\users\ronan\documents\visual studio 2017\Projects\WpfPomodoro\WpfPomodoro\bin\Debug\WpfPomodoro.exe
+c:\users\ronan\documents\visual studio 2017\Projects\WpfPomodoro\WpfPomodoro\bin\Debug\WpfPomodoro.pdb
+c:\users\ronan\documents\visual studio 2017\Projects\WpfPomodoro\WpfPomodoro\obj\Debug\WpfPomodoro.csprojResolveAssemblyReference.cache
+c:\users\ronan\documents\visual studio 2017\Projects\WpfPomodoro\WpfPomodoro\obj\Debug\MainWindow.g.cs
+c:\users\ronan\documents\visual studio 2017\Projects\WpfPomodoro\WpfPomodoro\obj\Debug\App.g.cs
+c:\users\ronan\documents\visual studio 2017\Projects\WpfPomodoro\WpfPomodoro\obj\Debug\WpfPomodoro_MarkupCompile.cache
+c:\users\ronan\documents\visual studio 2017\Projects\WpfPomodoro\WpfPomodoro\obj\Debug\WpfPomodoro_MarkupCompile.lref
+c:\users\ronan\documents\visual studio 2017\Projects\WpfPomodoro\WpfPomodoro\obj\Debug\MainWindow.baml
+c:\users\ronan\documents\visual studio 2017\Projects\WpfPomodoro\WpfPomodoro\obj\Debug\WpfPomodoro.g.resources
+c:\users\ronan\documents\visual studio 2017\Projects\WpfPomodoro\WpfPomodoro\obj\Debug\WpfPomodoro.Properties.Resources.resources
+c:\users\ronan\documents\visual studio 2017\Projects\WpfPomodoro\WpfPomodoro\obj\Debug\WpfPomodoro.csproj.GenerateResource.Cache
+c:\users\ronan\documents\visual studio 2017\Projects\WpfPomodoro\WpfPomodoro\obj\Debug\WpfPomodoro.exe
+c:\users\ronan\documents\visual studio 2017\Projects\WpfPomodoro\WpfPomodoro\obj\Debug\WpfPomodoro.pdb
+c:\users\ronan\documents\visual studio 2017\Projects\WpfPomodoro\WpfPomodoro\obj\Debug\App.baml
